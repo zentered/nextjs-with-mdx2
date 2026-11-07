@@ -23,7 +23,7 @@
     "@remark-embedder/transformer-oembed": "^2.0.0",
     "gray-matter": "^4.0.3",
     "mdx-embed": "^1.0.0",
-    "next": "12.1.4",
+    "next": "16.4.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "rehype-external-links": "^1.0.1",
